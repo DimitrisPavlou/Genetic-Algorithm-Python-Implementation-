@@ -1,3 +1,11 @@
+## 🧬 Overview
+
+This repository provides an **optimized implementation of the Genetic Algorithm (GA)** for both **discrete** and **continuous** function optimization.  
+
+In addition, it includes an implementation of the **Grey Wolf Optimizer (GWO)**, a nature-inspired metaheuristic that often achieves **better and more stable results** with **fewer generations** compared to the basic GA.  
+
+Both algorithms are flexible, easy to adapt, and can be applied to a wide range of optimization problems.
+
 ## 🧬 What is a Genetic Algorithm?
 
 A **Genetic Algorithm (GA)** is an optimization method inspired by the process of natural selection and evolution.  
